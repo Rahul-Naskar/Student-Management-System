@@ -5,8 +5,6 @@ It provides APIs to perform CRUD operations with proper handling of full and par
 The application follows a layered architecture (Controller, Service, Repository) and uses DTOs to ensure clean separation between API contracts and database entities.
 It also implements global exception handling to return meaningful and standardized error responses.
 
-This project is designed to demonstrate real-world REST API best practices using Spring Boot.
-
 2. Features -
    1. Create a student record
    2. Fetch all students
